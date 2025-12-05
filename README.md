@@ -33,30 +33,20 @@ Codeforces: https://codeforces.com/profile/lokeshpant
 ⚡ Fun fact
 
 I’m combining 18+ years of capital markets experience with quantitative modelling to transition into modern quant roles.
+
 📊 Quant Projects
 🔹 1. Time-Series Analysis — Moving Averages (MA20 & MA50)
-
 Notebook: Time-Series-MA.ipynb
-
 Skills: Pandas, NumPy, Matplotlib, Time-Series
 What it covers:
-
 Synthetic price series generation
-
 Calculating MA20 & MA50
-
 Plotting crossovers
-
 Basic quant insight
 
 🔹 2. Upcoming Projects
-
 Black–Scholes Option Pricing (Python)
-
 Monte Carlo Simulation for stock prices
-
 Value-at-Risk Model (parametric & Monte Carlo)
-
 Financial Data EDA Projects
-
 Coding challenges (Codeforces)
