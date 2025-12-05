@@ -1,16 +1,35 @@
-## Hi there 👋
+Capital Markets | Quantitative Finance | Risk Analytics | Python | FRM | CQF (2026)
 
-<!--
-**lokeshpant-quant/lokeshpant-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into quantitative finance and algorithmic research after 18+ years in Capital Markets, Fixed Income, Derivatives, and Risk.
+I am currently building strong foundations in:
+Python for Finance & Data Analysis
+Time-Series & Statistical Modelling
+Option Pricing Models (Black–Scholes, Greeks)
+Monte Carlo Simulation
+Competitive Programming (Codeforces)
+CQF 2026 preparation
 
-Here are some ideas to get you started:
+🔬 Quant Projects (In Progress)
+📈 Time-Series Analysis (trend, moving averages)
+🎯 Black-Scholes Pricing Model
+🎲 Monte Carlo Simulation for stock prices
+🔢 Value-at-Risk (basic portfolio VaR)
+📊 Financial dataset analysis (exploratory insights)
+➡️ All projects will be available soon in:
+quant-projects-lokesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently Learning
+Python: 100 Days of Code (Angela Yu) — Day 9
+Numpy, Pandas, Matplotlib
+Data Structures & Algorithms
+Contest problem solving (Codeforces)
+
+📫 Connect
+
+LinkedIn: www.linkedin.com/in/2lokeshpant
+
+Codeforces: https://codeforces.com/profile/lokeshpant
+
+⚡ Fun fact
+
+I’m combining 18+ years of capital markets experience with quantitative modelling to transition into modern quant roles.
